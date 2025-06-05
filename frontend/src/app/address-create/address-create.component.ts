@@ -34,7 +34,7 @@ export class AddressCreateComponent implements OnInit {
   public stateControl: UntypedFormControl = new UntypedFormControl()
   public address: any = undefined
   public mode = 'create'
-  private addressId: string = undefined
+  private addressId: string | null = null
 
   constructor (private readonly location: Location, private readonly formSubmitService: FormSubmitService,
     private readonly addressService: AddressService, private readonly router: Router, public activatedRoute: ActivatedRoute,
@@ -56,6 +56,7 @@ export class AddressCreateComponent implements OnInit {
     })
     this.formSubmitService.attachEnterKeyHandler('address-form', 'submitButton', () => { this.save() })
   }
+
 
   save () {
     this.address.country = this.countryControl.value
