@@ -1,6 +1,6 @@
 # Test day 2025.
 
-File with demo prompts is fond under "Cyber and Copilot Presentation" folder.
+File with demo prompts is found under "Cyber and Copilot Presentation" folder.
 
 # ----------
 
