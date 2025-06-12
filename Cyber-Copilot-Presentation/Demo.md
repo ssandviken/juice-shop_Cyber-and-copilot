@@ -77,7 +77,9 @@ The baseline-scan is a time limited spider which reports issues found passively.
 
 # Analyze server log in 365
 
-    Analyze the attached log and give me a report any indication of possible hacking attempts: generated-server.log
+Upload a logfile to Copilot and ask it to analyze the file.
+
+    Analyze the attached log and give me a report any indication of possible hacking attempts: generated-server.log.txt
 
 *The logfile is available in the presentation folder.*
 

@@ -1,0 +1,500 @@
+2025-05-09T10:07:25.051Z INFO [Server] Server started on port 3000
+2025-05-09T11:25:44.649Z WARN [Request] DELETE /login?q=<img src=x onerror=alert('XSS')> 200 - 214.98.156.102
+2025-05-09T10:01:15.503Z WARN [Security] Possible XSS attack detected in query parameter from IP b81f:f44a:6dee:4aae:b18b:ad39:8486:bce3
+2025-05-08T17:27:01.098Z ERROR [Request] GET /api/v1/users?q=<img src=x onerror=alert('XSS')> 201 - eb92:abfc:8acf:e6bf:2eae:ebab:d48a:7b2a
+2025-05-08T22:40:22.840Z ERROR [Security] Possible brute-force login attempt detected from IP 22.223.120.151
+2025-05-08T16:50:15.010Z INFO [Server] Server started on port 3000
+2025-05-09T08:06:51.619Z ERROR [Security] Possible brute-force login attempt detected from IP b2f4:aeab:edbd:99ab:3f82:4605:26dc:eac9
+2025-05-09T03:43:30.188Z ERROR [Security] Path traversal attempt detected from IP 08a4:a609:efd3:ccc2:aef7:9f4a:81d1:d47c
+2025-05-08T23:27:05.971Z ERROR [Server] Server started on port 3000
+2025-05-08T22:17:56.605Z ERROR [Request] POST /api/v1/users 401 - adcc:1a92:1ac2:cdf1:110c:bbc1:7b70:eded
+2025-05-09T09:56:05.505Z WARN [Security] Possible XSS attack detected in query parameter from IP 123.217.24.206
+2025-05-08T15:08:44.263Z WARN [Security] Possible XSS attack detected in query parameter from IP 230.63.16.197
+2025-05-08T13:06:38.633Z INFO [Security] Possible brute-force login attempt detected from IP 195.105.160.41
+2025-05-08T19:35:13.091Z INFO [Server] Server started on port 3000
+2025-05-08T21:29:40.568Z WARN [Security] Path traversal attempt detected from IP 152.175.85.31
+2025-05-09T00:54:11.803Z INFO [Security] Possible brute-force login attempt detected from IP 123.110.168.63
+2025-05-08T16:47:06.524Z INFO [Security] Possible brute-force login attempt detected from IP 234.18.17.177
+2025-05-09T01:52:39.220Z ERROR [Security] Possible XSS attack detected in query parameter from IP 214.191.111.238
+2025-05-08T22:18:10.389Z INFO [Security] Possible XSS attack detected in query parameter from IP 157.111.74.1
+2025-05-08T19:38:22.797Z INFO [Request] DELETE /search 400 - 23.28.236.170
+2025-05-09T03:57:16.844Z ERROR [Security] Possible XSS attack detected in query parameter from IP 133.66.56.152
+2025-05-08T14:21:28.098Z WARN [Security] Possible XSS attack detected in query parameter from IP 4e1d:eb38:3d0c:d922:2ab0:cdf9:9f7c:c7d3
+2025-05-09T12:06:42.327Z INFO [Security] Possible brute-force login attempt detected from IP c3ac:376f:d84f:ddfa:dcf7:484f:d1ba:c0b5
+2025-05-08T16:11:54.254Z INFO [Server] Server started on port 3000
+2025-05-09T09:55:09.493Z ERROR [Security] Possible brute-force login attempt detected from IP 201.65.145.62
+2025-05-08T20:54:10.678Z ERROR [Request] GET /ftp?q=crapula 400 - de30:dacb:611c:4dd2:54a7:06a6:faaf:8cd8
+2025-05-08T18:17:33.904Z INFO [Server] Server started on port 3000
+2025-05-09T06:57:44.206Z INFO [Security] Possible XSS attack detected in query parameter from IP 198.239.245.181
+2025-05-09T06:56:11.208Z INFO [Request] PUT /login?q=<img src=x onerror=alert('XSS')> 500 - 242.209.154.206
+2025-05-09T03:42:18.938Z INFO [Security] Path traversal attempt detected from IP 129.33.134.115
+2025-05-08T22:25:15.794Z ERROR [Server] Server started on port 3000
+2025-05-08T19:43:12.806Z INFO [Security] Possible brute-force login attempt detected from IP 21.158.180.198
+2025-05-09T01:29:42.696Z ERROR [Security] Possible XSS attack detected in query parameter from IP 8a6a:ce95:4bdb:cbf0:34c7:ed9a:0377:fac3
+2025-05-09T11:35:04.171Z INFO [Security] Possible brute-force login attempt detected from IP 180.113.177.36
+2025-05-08T14:44:02.606Z INFO [Security] Possible XSS attack detected in query parameter from IP 212.128.25.175
+2025-05-09T11:34:07.801Z WARN [Security] Possible XSS attack detected in query parameter from IP c08d:5dc6:ef4f:49c7:0dee:a6b8:dbf0:3ebf
+2025-05-08T21:08:02.148Z WARN [Request] GET /admin 500 - 124.82.169.194
+2025-05-08T22:04:42.700Z WARN [Server] Server started on port 3000
+2025-05-09T10:50:44.833Z INFO [Security] Possible XSS attack detected in query parameter from IP 24.195.157.225
+2025-05-09T06:36:04.303Z ERROR [Security] Possible XSS attack detected in query parameter from IP aa6c:aec9:8e83:cdbb:cedc:22c5:e730:dcfd
+2025-05-09T08:57:50.555Z WARN [Request] GET /api/v1/users?q=vir 200 - eafa:3c2f:5f94:5fb2:d6e1:ac4c:ddac:ea50
+2025-05-08T20:55:00.473Z WARN [Security] Path traversal attempt detected from IP 7.195.29.26
+2025-05-09T06:37:26.459Z WARN [Server] Server started on port 3000
+2025-05-09T03:36:00.250Z ERROR [Security] Path traversal attempt detected from IP beed:560a:fe7b:ab6d:fedf:bfd3:a0e0:c2be
+2025-05-08T22:17:38.571Z ERROR [Security] Path traversal attempt detected from IP 22.4.151.170
+2025-05-09T05:55:47.581Z WARN [Security] Path traversal attempt detected from IP edfe:7cf8:89f6:65f7:679b:d240:ddc1:b40a
+2025-05-08T13:51:49.136Z INFO [Security] Path traversal attempt detected from IP 28bd:d1f0:d59b:dc4a:9b9b:43bc:dee0:377a
+2025-05-08T23:59:32.642Z INFO [Server] Server started on port 3000
+2025-05-09T11:50:15.310Z WARN [Request] POST /api/v1/orders?q=vivo 400 - 195.192.60.187
+2025-05-08T22:16:40.571Z INFO [Request] GET /admin?q=<img src=x onerror=alert('XSS')> 401 - 87.76.226.70
+2025-05-08T20:32:04.333Z WARN [Security] Path traversal attempt detected from IP 7228:4a3a:dfc4:d6f7:0ee0:1e61:d935:2bf9
+2025-05-08T14:50:59.406Z INFO [Security] Possible XSS attack detected in query parameter from IP c6ab:abe2:37b3:b807:c226:98c9:faa3:77e3
+2025-05-08T23:01:47.664Z ERROR [Security] Path traversal attempt detected from IP 128.248.7.1
+2025-05-09T00:47:36.516Z ERROR [Security] Path traversal attempt detected from IP 039c:f6fb:8b94:5aee:c1ac:71de:02df:b8dc
+2025-05-09T00:01:41.152Z WARN [Request] POST /home?q=vociferor 400 - 120.243.245.147
+2025-05-08T23:17:12.297Z ERROR [Request] GET /home?q=sumptus 403 - 63.121.149.155
+2025-05-09T04:35:41.909Z ERROR [Request] PUT /support/logs 200 - 204.80.1.236
+2025-05-08T17:32:20.510Z WARN [Security] Path traversal attempt detected from IP 85.2.68.59
+2025-05-08T13:50:31.854Z WARN [Request] PUT /support/logs?q=<script>alert('XSS')</script> 403 - c6e9:bdde:df99:ae6e:493b:fadc:fccd:4dcd
+2025-05-09T01:56:43.866Z WARN [Request] POST /api/v1/orders?q=<script>alert('XSS')</script> 403 - a3a9:a5f0:bba8:9ec8:cfa9:afc6:89b7:368d
+2025-05-09T03:18:29.353Z WARN [Security] Path traversal attempt detected from IP 0f1b:eee4:2dc3:bbb5:c4cf:172d:f7e2:bcc9
+2025-05-08T18:56:36.321Z WARN [Security] Possible brute-force login attempt detected from IP 4b52:fb48:2a1b:2868:5afc:2845:facc:ac4e
+2025-05-08T13:33:43.251Z WARN [Request] PUT /support/logs?q=asper 400 - 79.82.190.146
+2025-05-09T10:15:36.980Z ERROR [Security] Possible brute-force login attempt detected from IP bede:0cf3:0ede:840f:abe2:0cbf:078d:efbe
+2025-05-08T19:39:45.324Z ERROR [Security] Possible brute-force login attempt detected from IP ceab:ceff:9f24:0ca2:aaa8:328f:2dc6:9d93
+2025-05-08T22:47:37.025Z ERROR [Request] POST /support/logs 403 - c92a:aff2:a343:dfce:4da2:898a:e9bc:a0af
+2025-05-09T02:28:37.651Z ERROR [Security] Possible XSS attack detected in query parameter from IP 123.159.228.79
+2025-05-08T22:37:42.422Z INFO [Request] DELETE /ftp 401 - 236.79.220.193
+2025-05-09T07:03:22.375Z WARN [Security] Path traversal attempt detected from IP c9b1:d877:8317:0c2c:7921:ebe6:3f67:cffa
+2025-05-09T04:51:41.310Z INFO [Security] Path traversal attempt detected from IP 3ddd:8767:4abd:deed:f726:8ba8:d96a:9cec
+2025-05-08T16:27:55.153Z WARN [Security] Possible XSS attack detected in query parameter from IP 4dfb:c3ba:94e1:d76b:a76b:c6e9:1ab0:a6ab
+2025-05-09T02:34:08.451Z WARN [Request] GET /search?q=<script>alert('XSS')</script> 404 - 60.29.1.201
+2025-05-09T02:28:27.521Z INFO [Security] Possible XSS attack detected in query parameter from IP 28.67.17.218
+2025-05-08T14:41:27.343Z ERROR [Security] Possible XSS attack detected in query parameter from IP 420c:abae:9a45:0ed6:bbbd:e0af:12be:8ac3
+2025-05-09T01:03:55.861Z ERROR [Server] Server started on port 3000
+2025-05-09T04:42:45.232Z INFO [Security] Path traversal attempt detected from IP 14.221.38.233
+2025-05-09T07:42:52.215Z INFO [Request] GET /search 401 - 125.110.60.34
+2025-05-08T14:09:57.220Z INFO [Security] Possible brute-force login attempt detected from IP 135.47.57.148
+2025-05-09T11:34:20.798Z INFO [Request] PUT /support/logs?q=<img src=x onerror=alert('XSS')> 201 - 9cfa:c6b0:4dfd:6d6f:e3eb:5ef3:5be0:a03d
+2025-05-08T17:22:46.004Z WARN [Request] DELETE /api/v1/users 400 - 3ff6:8ebe:40bd:2c0a:5ecd:198f:f5e1:ee64
+2025-05-09T09:38:32.424Z WARN [Security] Path traversal attempt detected from IP 90.153.177.179
+2025-05-09T05:57:56.515Z INFO [Server] Server started on port 3000
+2025-05-09T05:00:25.578Z WARN [Server] Server started on port 3000
+2025-05-08T16:11:56.581Z WARN [Security] Path traversal attempt detected from IP c6da:51aa:f80f:a6fa:bb6d:57cf:fc6a:e9fa
+2025-05-09T08:41:16.569Z INFO [Security] Possible XSS attack detected in query parameter from IP ab00:44be:fc03:1da1:6eaa:fe0b:6233:440f
+2025-05-08T18:48:44.516Z INFO [Request] GET /support/logs?q=<img src=x onerror=alert('XSS')> 400 - bf7d:b2c1:fe8e:e72a:ecff:5dba:b056:8dfb
+2025-05-09T05:56:00.522Z WARN [Security] Possible XSS attack detected in query parameter from IP 5fab:bace:0ecb:a9ab:6bce:7afa:2ca3:6fec
+2025-05-09T02:32:51.278Z WARN [Security] Possible XSS attack detected in query parameter from IP 2c5d:d0e7:cf2d:419e:5bcc:42be:b8d9:6eac
+2025-05-09T08:09:52.850Z ERROR [Security] Possible XSS attack detected in query parameter from IP 243.26.62.76
+2025-05-09T07:40:33.525Z INFO [Security] Possible XSS attack detected in query parameter from IP 2d23:511f:c8ff:8dbb:b5eb:e74e:34ed:0a2d
+2025-05-08T22:01:57.122Z ERROR [Security] Possible brute-force login attempt detected from IP 76.121.95.35
+2025-05-08T19:32:33.046Z ERROR [Security] Possible brute-force login attempt detected from IP 199.0.144.44
+2025-05-08T14:15:40.991Z INFO [Security] Path traversal attempt detected from IP fa68:0583:f05f:50fa:dbde:c6aa:4e24:a591
+2025-05-08T18:52:25.327Z ERROR [Request] PUT /admin?q=<script>alert('XSS')</script> 404 - d0df:d8cf:5ba5:c5d7:bbd6:d1d0:8a31:eb12
+2025-05-08T23:17:01.598Z INFO [Security] Possible XSS attack detected in query parameter from IP 59.139.107.43
+2025-05-08T23:07:20.571Z ERROR [Request] PUT /api/v1/orders?q=<img src=x onerror=alert('XSS')> 404 - 6c44:5b2d:02ce:65ec:29df:d972:aa33:f9da
+2025-05-09T04:37:24.100Z WARN [Security] Path traversal attempt detected from IP fc92:4bbc:4b8f:eff3:4e80:e65e:9fce:abee
+2025-05-08T21:14:45.224Z INFO [Server] Server started on port 3000
+2025-05-09T05:58:39.773Z ERROR [Server] Server started on port 3000
+2025-05-09T03:50:58.926Z WARN [Security] Path traversal attempt detected from IP 219.221.130.76
+2025-05-09T10:31:00.339Z ERROR [Security] Possible XSS attack detected in query parameter from IP 204.49.221.137
+2025-05-09T07:22:13.922Z ERROR [Security] Possible brute-force login attempt detected from IP 211.193.171.86
+2025-05-08T17:33:57.315Z ERROR [Security] Possible brute-force login attempt detected from IP 231.98.10.53
+2025-05-08T16:38:09.760Z INFO [Request] POST /api/v1/users?q=<script>alert('XSS')</script> 200 - 233.146.3.18
+2025-05-09T06:55:47.415Z ERROR [Server] Server started on port 3000
+2025-05-08T14:27:01.316Z ERROR [Security] Possible brute-force login attempt detected from IP 3ecf:71d6:62ed:73f7:d273:f4b8:ecb8:d26c
+2025-05-09T12:04:15.672Z ERROR [Security] Path traversal attempt detected from IP d1dc:e659:38cb:be71:8fad:7d0e:d9ab:2060
+2025-05-09T05:21:35.626Z WARN [Server] Server started on port 3000
+2025-05-08T17:12:36.969Z WARN [Security] Possible brute-force login attempt detected from IP ad1c:cbde:23e4:f756:9a23:9dba:bdec:a391
+2025-05-08T14:35:55.476Z ERROR [Security] Path traversal attempt detected from IP 42.171.253.134
+2025-05-09T00:54:49.742Z INFO [Server] Server started on port 3000
+2025-05-08T20:50:21.979Z ERROR [Security] Path traversal attempt detected from IP 9a3b:d607:3c5b:dd0c:97dc:63a2:3e8f:d867
+2025-05-09T08:26:41.391Z WARN [Security] Possible brute-force login attempt detected from IP a2b9:385e:4795:16a6:c67b:340b:47fe:e630
+2025-05-08T20:42:17.733Z WARN [Request] PUT /login 403 - 4e4b:f8a1:c31b:737f:6fad:eaf0:abcc:5867
+2025-05-08T18:05:28.140Z ERROR [Security] Possible XSS attack detected in query parameter from IP 150.125.194.183
+2025-05-09T04:48:08.107Z WARN [Security] Possible XSS attack detected in query parameter from IP e88a:00ad:dbb4:91fe:af37:c1f7:aa4c:da54
+2025-05-08T13:18:04.411Z WARN [Request] POST /ftp 400 - dd4a:815d:d71a:ecfb:ee7e:023b:b088:ea6b
+2025-05-08T17:35:08.251Z ERROR [Security] Path traversal attempt detected from IP f4aa:f92a:41e3:4caa:380c:ff26:db0d:26ab
+2025-05-08T14:13:34.744Z ERROR [Security] Possible brute-force login attempt detected from IP abdd:2ac4:eef5:914b:3c96:1faf:dece:a486
+2025-05-09T08:59:20.917Z ERROR [Security] Possible XSS attack detected in query parameter from IP 24.227.144.122
+2025-05-09T05:32:04.705Z ERROR [Security] Possible XSS attack detected in query parameter from IP 231.73.27.201
+2025-05-09T10:04:06.068Z INFO [Security] Path traversal attempt detected from IP 103.134.192.172
+2025-05-09T04:28:33.150Z INFO [Security] Possible brute-force login attempt detected from IP 87.81.232.233
+2025-05-09T04:42:05.840Z INFO [Server] Server started on port 3000
+2025-05-09T03:59:24.274Z WARN [Server] Server started on port 3000
+2025-05-08T20:57:34.494Z ERROR [Security] Possible brute-force login attempt detected from IP 39.173.64.244
+2025-05-08T23:28:22.186Z ERROR [Security] Possible brute-force login attempt detected from IP 132.159.93.77
+2025-05-08T23:02:47.030Z WARN [Security] Possible brute-force login attempt detected from IP 48.31.164.188
+2025-05-08T21:02:54.797Z ERROR [Request] POST /ftp?q=<script>alert('XSS')</script> 500 - 38df:f4c9:680f:e0ea:8aec:997d:cf79:faeb
+2025-05-08T17:08:34.572Z WARN [Security] Possible XSS attack detected in query parameter from IP 229.211.76.73
+2025-05-08T18:08:49.082Z INFO [Security] Possible XSS attack detected in query parameter from IP 0.159.72.9
+2025-05-09T10:51:49.894Z ERROR [Security] Possible XSS attack detected in query parameter from IP 3be1:56de:bdb4:fd87:c1f3:02bf:1d55:ab1c
+2025-05-09T04:49:03.771Z INFO [Request] DELETE /search?q=correptius 403 - 1cb9:fcda:bd88:36c6:6dc3:8dfc:22de:ebdb
+2025-05-09T11:55:20.399Z WARN [Server] Server started on port 3000
+2025-05-08T17:49:58.205Z INFO [Security] Possible brute-force login attempt detected from IP 124.172.197.108
+2025-05-08T13:05:56.293Z ERROR [Security] Possible XSS attack detected in query parameter from IP fcdb:39b1:3a5a:6eaf:3bb1:bcaf:c633:a0ab
+2025-05-09T10:24:20.106Z ERROR [Server] Server started on port 3000
+2025-05-08T16:04:33.961Z INFO [Request] GET /home?q=<img src=x onerror=alert('XSS')> 200 - 210.170.190.22
+2025-05-09T01:43:00.139Z INFO [Security] Possible brute-force login attempt detected from IP 120.248.132.24
+2025-05-09T01:16:02.215Z INFO [Security] Path traversal attempt detected from IP 96.168.107.38
+2025-05-08T14:38:38.309Z WARN [Security] Possible brute-force login attempt detected from IP 149.38.207.151
+2025-05-09T11:27:46.302Z WARN [Security] Path traversal attempt detected from IP 2.68.65.138
+2025-05-09T08:01:42.387Z INFO [Security] Possible brute-force login attempt detected from IP 0abe:0d4c:edc1:adbc:e7dd:726b:ef8e:cb7b
+2025-05-09T05:39:48.442Z INFO [Security] Possible brute-force login attempt detected from IP 24.157.179.110
+2025-05-09T02:24:14.901Z WARN [Request] POST /support/logs 401 - 116.111.147.59
+2025-05-08T15:32:38.139Z INFO [Security] Possible brute-force login attempt detected from IP f7f5:97a8:acef:dce9:35d2:f8bf:2da4:cf8a
+2025-05-08T15:54:24.520Z INFO [Request] DELETE /login?q=<img src=x onerror=alert('XSS')> 201 - 24.79.154.140
+2025-05-09T01:51:03.247Z INFO [Request] POST /ftp?q=<img src=x onerror=alert('XSS')> 200 - 217.148.223.77
+2025-05-08T19:43:11.564Z ERROR [Server] Server started on port 3000
+2025-05-09T04:46:25.081Z ERROR [Request] DELETE /support/logs?q=ver 500 - 111.2.208.86
+2025-05-08T17:44:42.970Z INFO [Security] Possible brute-force login attempt detected from IP 247.241.27.110
+2025-05-09T04:18:32.819Z ERROR [Request] PUT /products?q=atque 201 - c377:bebb:fa9e:0ad1:8778:dbd9:bb58:c32d
+2025-05-09T11:21:41.433Z WARN [Server] Server started on port 3000
+2025-05-08T22:11:07.506Z WARN [Security] Possible XSS attack detected in query parameter from IP dc6a:c3c4:ebee:f4c5:b74f:b3ce:3a2c:fbdc
+2025-05-09T08:31:01.749Z INFO [Server] Server started on port 3000
+2025-05-08T23:39:58.690Z INFO [Security] Path traversal attempt detected from IP 226.32.152.74
+2025-05-09T00:17:46.899Z ERROR [Request] DELETE /home?q=<script>alert('XSS')</script> 500 - 132.150.175.89
+2025-05-08T23:58:50.503Z WARN [Request] PUT /products 400 - 28.138.65.1
+2025-05-09T08:18:16.728Z INFO [Security] Path traversal attempt detected from IP 106.66.233.192
+2025-05-09T11:08:21.625Z ERROR [Request] PUT /api/v1/orders 500 - c16c:99c5:6d19:7acc:f6f2:0073:2d9f:6665
+2025-05-08T14:08:21.535Z WARN [Security] Possible XSS attack detected in query parameter from IP 215.143.25.109
+2025-05-08T16:41:00.162Z WARN [Security] Possible brute-force login attempt detected from IP 2931:c35e:5aeb:a1c3:9fac:2d4a:5bac:97b4
+2025-05-09T09:54:42.000Z ERROR [Server] Server started on port 3000
+2025-05-09T06:55:27.321Z INFO [Security] Possible brute-force login attempt detected from IP 78.148.78.10
+2025-05-09T08:55:37.514Z ERROR [Security] Possible brute-force login attempt detected from IP bbd7:fb0d:8de8:da0e:0ae6:ff4a:96bc:c04d
+2025-05-08T15:12:12.316Z INFO [Security] Possible XSS attack detected in query parameter from IP 199.151.66.80
+2025-05-08T21:02:16.909Z WARN [Security] Path traversal attempt detected from IP 5.137.150.210
+2025-05-08T21:39:02.136Z INFO [Security] Possible brute-force login attempt detected from IP 243.150.91.187
+2025-05-08T22:52:26.619Z WARN [Request] DELETE /home 403 - a3e5:9e58:3ddb:9ccc:6ab3:c3bd:5d03:3dae
+2025-05-09T09:11:55.486Z INFO [Request] GET /api/v1/users 403 - 0bde:b7af:1ae9:100d:6cef:8cc4:4a90:100a
+2025-05-08T17:21:54.227Z WARN [Security] Path traversal attempt detected from IP eaae:cfff:8fad:1aa1:2c94:dc5c:2d17:e8bb
+2025-05-09T06:01:02.900Z INFO [Server] Server started on port 3000
+2025-05-09T09:01:34.001Z WARN [Security] Path traversal attempt detected from IP bb1c:dd7e:59da:adcb:30bf:cfcb:c051:cb7f
+2025-05-09T02:55:24.559Z INFO [Server] Server started on port 3000
+2025-05-08T20:36:23.007Z INFO [Security] Possible XSS attack detected in query parameter from IP ddf3:cbf9:f303:ca5e:a93c:458a:f25d:7bca
+2025-05-08T15:20:54.700Z WARN [Security] Possible XSS attack detected in query parameter from IP 0b07:5c1d:f659:abd6:cea2:e92b:b1fa:09da
+2025-05-09T06:11:21.348Z ERROR [Security] Path traversal attempt detected from IP 21.139.48.69
+2025-05-09T07:49:52.468Z WARN [Security] Path traversal attempt detected from IP 80.151.207.120
+2025-05-09T01:02:32.540Z INFO [Security] Possible brute-force login attempt detected from IP 25.52.223.135
+2025-05-09T11:51:43.346Z WARN [Security] Path traversal attempt detected from IP e2da:3a87:ae91:ecdd:ca4e:ead9:2d7d:d0a8
+2025-05-09T00:08:15.393Z ERROR [Server] Server started on port 3000
+2025-05-09T06:58:20.315Z INFO [Server] Server started on port 3000
+2025-05-09T05:53:16.469Z WARN [Request] POST /login?q=<script>alert('XSS')</script> 201 - 149.86.181.60
+2025-05-08T22:29:02.868Z INFO [Request] DELETE /search?q=<script>alert('XSS')</script> 401 - ebe2:dfae:57cc:dd0d:adb9:f7cf:af2c:1acf
+2025-05-08T22:14:21.427Z WARN [Request] DELETE /ftp?q=<script>alert('XSS')</script> 201 - 204.148.205.53
+2025-05-09T05:06:25.476Z INFO [Security] Possible XSS attack detected in query parameter from IP 8df2:dfc6:3a5f:ce5f:45c7:72ae:e399:faa8
+2025-05-09T11:08:00.538Z WARN [Security] Possible XSS attack detected in query parameter from IP b4b4:a763:adfa:d3fa:58b9:d79a:3aad:f5aa
+2025-05-08T22:29:37.134Z WARN [Security] Possible brute-force login attempt detected from IP 131.42.212.100
+2025-05-08T23:13:49.053Z WARN [Security] Possible brute-force login attempt detected from IP 0cdb:a79e:e2ce:a216:c5b1:2ed6:f8fb:d7a3
+2025-05-09T12:33:10.039Z WARN [Security] Path traversal attempt detected from IP 199.107.154.31
+2025-05-09T05:09:40.529Z ERROR [Server] Server started on port 3000
+2025-05-09T06:17:39.029Z WARN [Security] Possible brute-force login attempt detected from IP 140.137.85.141
+2025-05-09T05:28:37.103Z INFO [Security] Path traversal attempt detected from IP 206.185.182.221
+2025-05-09T11:57:05.249Z INFO [Security] Possible XSS attack detected in query parameter from IP dc11:d5b3:ea40:0494:1662:fd8c:fd63:9d97
+2025-05-09T09:13:45.503Z WARN [Security] Possible XSS attack detected in query parameter from IP 9ce2:fcce:c68c:6848:7f60:f36b:dccc:ebea
+2025-05-09T00:48:12.546Z ERROR [Security] Path traversal attempt detected from IP dddf:70bf:0d58:5a7c:284a:e0e3:efec:96de
+2025-05-09T01:04:38.547Z ERROR [Security] Possible brute-force login attempt detected from IP fb9d:a9e5:c2a4:1eca:4fdf:a0db:f17b:5f2c
+2025-05-09T00:25:49.064Z INFO [Server] Server started on port 3000
+2025-05-08T14:22:40.955Z WARN [Security] Path traversal attempt detected from IP 229.105.119.162
+2025-05-08T14:23:05.285Z ERROR [Request] GET /search 200 - 51.73.150.7
+2025-05-08T22:42:25.136Z ERROR [Security] Path traversal attempt detected from IP 25a1:e473:9bfe:e6cb:f0ff:abac:e17a:57b6
+2025-05-09T04:54:21.805Z INFO [Security] Possible XSS attack detected in query parameter from IP 112.243.211.224
+2025-05-09T09:53:35.521Z ERROR [Security] Possible brute-force login attempt detected from IP 1cc2:cbdb:e3bc:8273:093e:a939:bc0c:fcd0
+2025-05-09T07:40:59.947Z INFO [Server] Server started on port 3000
+2025-05-09T02:20:52.262Z INFO [Request] POST /api/v1/users?q=<img src=x onerror=alert('XSS')> 201 - 7ac3:beac:ed1f:dca8:baec:d8a6:0392:9640
+2025-05-09T02:42:18.003Z WARN [Security] Path traversal attempt detected from IP 2187:dfde:96bb:d989:8bd7:f62e:cadf:d916
+2025-05-09T05:05:41.028Z INFO [Security] Possible brute-force login attempt detected from IP 54.171.184.103
+2025-05-08T18:47:06.712Z WARN [Security] Possible XSS attack detected in query parameter from IP f531:e1fe:edeb:2226:f1ef:ecbb:4fc3:bc9b
+2025-05-08T19:46:06.562Z ERROR [Request] POST /search?q=<script>alert('XSS')</script> 201 - 31.84.253.247
+2025-05-09T03:17:43.744Z WARN [Security] Path traversal attempt detected from IP f9cc:729e:1fda:ab2f:c34f:cf69:b5b6:c57d
+2025-05-08T13:13:01.363Z ERROR [Server] Server started on port 3000
+2025-05-08T23:50:41.210Z ERROR [Security] Path traversal attempt detected from IP 83aa:79cb:d746:79c0:f685:c78d:314e:0ac6
+2025-05-09T02:38:01.240Z ERROR [Request] DELETE /home 200 - b1e5:0394:58cc:baa3:adbf:7393:33e8:d62b
+2025-05-09T04:30:32.391Z ERROR [Server] Server started on port 3000
+2025-05-08T15:57:28.598Z ERROR [Security] Path traversal attempt detected from IP 15.116.95.30
+2025-05-09T05:32:28.342Z INFO [Security] Possible XSS attack detected in query parameter from IP fdd9:b2bd:3fea:edc6:6b97:ff09:bd06:d9f1
+2025-05-09T10:26:58.873Z ERROR [Security] Possible brute-force login attempt detected from IP 29.106.250.225
+2025-05-09T07:04:05.545Z ERROR [Security] Path traversal attempt detected from IP 197.231.228.124
+2025-05-09T00:28:13.687Z WARN [Request] PUT /ftp?q=cibo 401 - da6c:1a6a:5f7c:bfaf:ea47:8f83:a551:0bbd
+2025-05-09T05:39:18.907Z ERROR [Security] Path traversal attempt detected from IP 5d99:d32c:ee42:c8c2:717d:d95d:f5a7:457b
+2025-05-08T18:15:13.414Z INFO [Security] Path traversal attempt detected from IP 187.8.251.32
+2025-05-08T21:37:34.621Z ERROR [Request] DELETE /login?q=<img src=x onerror=alert('XSS')> 500 - 175.217.122.186
+2025-05-09T00:48:43.772Z INFO [Server] Server started on port 3000
+2025-05-09T04:35:30.997Z INFO [Security] Possible brute-force login attempt detected from IP 823a:d80a:9a42:f6fa:ae1a:cdbf:c7b2:499d
+2025-05-08T22:23:27.467Z INFO [Server] Server started on port 3000
+2025-05-09T04:10:06.005Z WARN [Request] GET /ftp 400 - 6.80.200.103
+2025-05-08T18:28:41.552Z INFO [Security] Possible XSS attack detected in query parameter from IP 7bef:afc9:3e0e:f799:c8af:97f1:bd5e:ce5c
+2025-05-09T08:21:47.000Z WARN [Server] Server started on port 3000
+2025-05-09T05:09:12.068Z WARN [Security] Path traversal attempt detected from IP fc8f:5f24:2c3e:39a2:d485:ce6b:d4d6:fc9d
+2025-05-09T06:25:07.618Z ERROR [Security] Path traversal attempt detected from IP 121.128.6.191
+2025-05-08T20:07:08.126Z ERROR [Security] Possible brute-force login attempt detected from IP 110.104.212.180
+2025-05-08T16:31:55.444Z INFO [Security] Path traversal attempt detected from IP 250.60.189.248
+2025-05-08T13:49:21.783Z ERROR [Security] Path traversal attempt detected from IP 248.130.231.125
+2025-05-09T07:00:20.717Z INFO [Request] POST /products?q=vae 500 - 37.161.15.155
+2025-05-09T06:09:57.905Z INFO [Request] POST /admin?q=<script>alert('XSS')</script> 200 - 2cdb:df05:0fac:1a2f:abbc:7e2f:ded8:57a2
+2025-05-08T13:31:59.221Z WARN [Security] Path traversal attempt detected from IP d4fe:183d:6ccb:e1a4:2120:5ee2:a44c:cce0
+2025-05-09T00:20:48.142Z INFO [Server] Server started on port 3000
+2025-05-09T04:39:02.622Z WARN [Server] Server started on port 3000
+2025-05-09T06:43:16.101Z ERROR [Server] Server started on port 3000
+2025-05-08T22:38:20.901Z WARN [Server] Server started on port 3000
+2025-05-09T10:04:25.291Z INFO [Server] Server started on port 3000
+2025-05-09T01:53:47.040Z WARN [Request] PUT /login?q=<script>alert('XSS')</script> 200 - 220.244.155.104
+2025-05-08T16:01:22.583Z INFO [Security] Possible brute-force login attempt detected from IP 230.97.24.173
+2025-05-08T19:41:23.335Z INFO [Request] PUT /home?q=<img src=x onerror=alert('XSS')> 201 - ee9d:ec74:bf1d:befb:afbe:ce35:d38a:56b5
+2025-05-08T17:30:04.491Z ERROR [Security] Possible brute-force login attempt detected from IP 8c0a:ba5d:e6ab:a9cc:fff4:75bb:6d1e:bb00
+2025-05-08T13:44:55.563Z ERROR [Server] Server started on port 3000
+2025-05-08T19:49:55.587Z ERROR [Server] Server started on port 3000
+2025-05-08T17:24:26.858Z ERROR [Security] Path traversal attempt detected from IP a42d:8d5f:c24d:1d7c:b4ab:0a8c:cabf:77b5
+2025-05-09T08:06:15.362Z INFO [Security] Possible brute-force login attempt detected from IP 111.166.228.25
+2025-05-09T07:20:10.048Z INFO [Security] Possible brute-force login attempt detected from IP c828:fc22:1ca6:97e1:ffd8:037f:4ed4:ccde
+2025-05-08T20:55:17.543Z WARN [Security] Possible brute-force login attempt detected from IP 104.238.215.174
+2025-05-09T10:40:56.293Z INFO [Security] Possible brute-force login attempt detected from IP bdad:aadd:65f4:f1e4:a151:4fc9:ba1d:fb23
+2025-05-08T15:36:19.568Z WARN [Security] Path traversal attempt detected from IP 43.38.49.116
+2025-05-08T13:35:20.820Z WARN [Request] PUT /search?q=amita 200 - 0ab8:fc4c:561e:fde7:dcbf:fbfe:adf2:722e
+2025-05-08T22:53:42.436Z INFO [Server] Server started on port 3000
+2025-05-09T06:14:08.242Z ERROR [Security] Possible XSS attack detected in query parameter from IP 8f5b:e2cf:71ea:47ae:adae:44da:b6b9:3ce1
+2025-05-08T15:14:04.494Z WARN [Request] PUT /search?q=<img src=x onerror=alert('XSS')> 500 - 129.248.247.124
+2025-05-08T15:32:56.936Z INFO [Server] Server started on port 3000
+2025-05-09T04:17:46.492Z ERROR [Security] Path traversal attempt detected from IP 20.202.172.105
+2025-05-09T12:02:31.688Z ERROR [Security] Possible brute-force login attempt detected from IP 234.96.203.193
+2025-05-09T04:39:27.004Z ERROR [Security] Possible brute-force login attempt detected from IP 170.223.198.136
+2025-05-09T11:58:29.635Z ERROR [Security] Possible brute-force login attempt detected from IP 4dd5:d4ff:6728:4ffb:c9c3:ff27:6f7e:c6e0
+2025-05-09T03:22:02.197Z INFO [Server] Server started on port 3000
+2025-05-08T17:30:54.672Z INFO [Request] PUT /login?q=<img src=x onerror=alert('XSS')> 200 - 85c5:eee2:e4ce:84dd:ccf1:0a4b:dce3:528a
+2025-05-09T00:14:18.728Z INFO [Request] POST /ftp?q=<script>alert('XSS')</script> 400 - bbbb:4d4a:6b3d:ea17:83a7:1b68:c74b:a0ca
+2025-05-08T17:10:59.076Z ERROR [Security] Possible brute-force login attempt detected from IP 156.231.244.68
+2025-05-08T17:36:17.877Z INFO [Security] Path traversal attempt detected from IP 218.192.48.98
+2025-05-08T14:22:16.722Z INFO [Security] Possible XSS attack detected in query parameter from IP 176.96.164.90
+2025-05-09T04:50:30.161Z WARN [Security] Possible XSS attack detected in query parameter from IP 0af9:92c2:7089:0576:cfac:7f5c:cdfd:1537
+2025-05-09T06:28:24.294Z INFO [Security] Possible XSS attack detected in query parameter from IP 187.74.209.230
+2025-05-08T18:53:03.165Z INFO [Request] GET /api/v1/orders 404 - 3d9b:0adf:1bd9:f93c:cf0c:edfd:faa3:bbed
+2025-05-09T11:51:41.255Z WARN [Security] Path traversal attempt detected from IP ada1:4514:efc8:4d3b:dadb:eb00:307a:077a
+2025-05-08T16:48:47.607Z ERROR [Security] Path traversal attempt detected from IP b6e7:cacc:eeff:4af5:e9b6:c4ae:f461:a33b
+2025-05-08T20:54:14.623Z WARN [Server] Server started on port 3000
+2025-05-08T15:24:56.814Z INFO [Request] DELETE /support/logs?q=conitor 403 - ced5:4e47:eb54:ff06:7e33:b5d9:4eda:b785
+2025-05-08T16:15:56.788Z INFO [Server] Server started on port 3000
+2025-05-09T03:19:07.135Z INFO [Security] Possible XSS attack detected in query parameter from IP 51.243.221.170
+2025-05-09T08:15:07.440Z INFO [Security] Possible brute-force login attempt detected from IP d145:7ce1:88e4:80da:4ca5:dd6d:3c4d:94ec
+2025-05-08T23:14:39.615Z ERROR [Security] Possible XSS attack detected in query parameter from IP 160.154.4.217
+2025-05-08T21:56:16.344Z WARN [Security] Possible XSS attack detected in query parameter from IP 232.180.10.242
+2025-05-09T12:22:20.161Z ERROR [Security] Possible XSS attack detected in query parameter from IP 168.5.215.215
+2025-05-09T05:24:24.181Z ERROR [Security] Path traversal attempt detected from IP 106.16.88.153
+2025-05-08T15:37:00.582Z WARN [Security] Possible brute-force login attempt detected from IP ad3d:bdaf:9bcb:452e:e2b0:4ae0:4245:cd5d
+2025-05-08T20:07:43.409Z WARN [Server] Server started on port 3000
+2025-05-08T15:02:12.597Z ERROR [Security] Possible XSS attack detected in query parameter from IP 218.123.164.232
+2025-05-09T09:38:49.221Z WARN [Request] DELETE /api/v1/users?q=<img src=x onerror=alert('XSS')> 201 - 81.65.238.38
+2025-05-08T20:52:53.406Z INFO [Security] Path traversal attempt detected from IP b3c5:fcb3:7eac:d8c7:ede7:cdea:4dc9:594d
+2025-05-09T10:23:11.291Z WARN [Security] Possible XSS attack detected in query parameter from IP 207.100.39.108
+2025-05-08T23:15:49.627Z INFO [Security] Possible XSS attack detected in query parameter from IP 189.76.156.181
+2025-05-08T21:40:46.593Z INFO [Security] Possible brute-force login attempt detected from IP 64.90.242.246
+2025-05-08T13:19:16.623Z INFO [Security] Possible XSS attack detected in query parameter from IP 251.111.91.179
+2025-05-08T22:00:33.130Z ERROR [Request] DELETE /api/v1/users 400 - fb2b:de5f:5f78:36bf:93cb:812c:bf0c:f0ec
+2025-05-09T03:26:46.036Z INFO [Request] POST /api/v1/users?q=censura 404 - 8f75:5ad3:eb82:6dfe:46ee:2fee:bfbe:7c2a
+2025-05-08T18:24:47.580Z WARN [Server] Server started on port 3000
+2025-05-08T14:28:40.848Z WARN [Security] Possible brute-force login attempt detected from IP 3f5b:4e6b:db2c:22e0:06fb:f3b4:44da:04a8
+2025-05-08T13:51:10.156Z ERROR [Server] Server started on port 3000
+2025-05-09T04:35:34.961Z ERROR [Server] Server started on port 3000
+2025-05-08T12:54:56.467Z ERROR [Server] Server started on port 3000
+2025-05-09T08:59:28.824Z WARN [Request] GET /support/logs?q=<script>alert('XSS')</script> 401 - 23.91.72.214
+2025-05-08T22:46:38.273Z INFO [Request] POST /support/logs?q=sublime 500 - 41.211.239.85
+2025-05-08T19:59:51.552Z WARN [Security] Possible brute-force login attempt detected from IP 38.126.225.72
+2025-05-09T06:24:40.660Z INFO [Security] Path traversal attempt detected from IP fce3:b16c:b4ee:dfcd:47bb:ac68:cfac:933a
+2025-05-09T12:48:40.030Z INFO [Server] Server started on port 3000
+2025-05-09T09:49:26.735Z INFO [Security] Possible XSS attack detected in query parameter from IP 28.177.253.255
+2025-05-08T14:51:30.835Z INFO [Server] Server started on port 3000
+2025-05-08T14:44:21.323Z WARN [Request] DELETE /support/logs 404 - 198.227.5.12
+2025-05-08T16:12:25.965Z WARN [Security] Possible brute-force login attempt detected from IP ebbb:0b5c:dea0:aad4:ed9e:d0c2:8a68:aaa6
+2025-05-08T15:02:01.877Z INFO [Request] GET /api/v1/orders 200 - 78.102.177.120
+2025-05-09T05:05:11.861Z INFO [Server] Server started on port 3000
+2025-05-09T00:46:13.886Z INFO [Server] Server started on port 3000
+2025-05-09T06:59:44.014Z WARN [Server] Server started on port 3000
+2025-05-08T19:06:55.133Z ERROR [Security] Path traversal attempt detected from IP befc:9909:65c5:a83f:afba:7c60:d7bd:bdeb
+2025-05-08T22:29:54.230Z ERROR [Server] Server started on port 3000
+2025-05-08T18:46:21.069Z INFO [Request] POST /ftp?q=<script>alert('XSS')</script> 400 - 89.74.26.166
+2025-05-09T00:53:29.543Z WARN [Security] Possible brute-force login attempt detected from IP 192.177.235.196
+2025-05-08T14:04:24.976Z INFO [Security] Path traversal attempt detected from IP 74bd:fd52:bf12:b6fd:7ffd:2bbf:da1e:92e8
+2025-05-08T13:42:56.198Z INFO [Server] Server started on port 3000
+2025-05-08T14:55:52.065Z ERROR [Security] Path traversal attempt detected from IP 227.244.150.89
+2025-05-08T20:00:32.029Z ERROR [Request] GET /admin 201 - db29:a0ae:e330:00df:dde5:d116:cdee:a6f6
+2025-05-09T00:56:01.999Z WARN [Server] Server started on port 3000
+2025-05-08T13:57:21.547Z INFO [Request] DELETE /products?q=<script>alert('XSS')</script> 201 - 134.241.0.41
+2025-05-09T04:56:07.386Z ERROR [Request] GET /api/v1/users 404 - 6a8a:4aca:9a3a:cda6:49cd:be0b:80ff:2eff
+2025-05-09T11:51:10.383Z WARN [Server] Server started on port 3000
+2025-05-09T08:19:09.963Z WARN [Security] Possible XSS attack detected in query parameter from IP ff3a:603d:ca7d:cc3d:ffdf:dcfe:ed30:1de1
+2025-05-09T01:10:10.650Z INFO [Server] Server started on port 3000
+2025-05-08T18:30:37.393Z ERROR [Security] Path traversal attempt detected from IP 236.65.79.172
+2025-05-08T13:48:51.712Z WARN [Security] Path traversal attempt detected from IP 9ee4:b0b3:c1c3:c4ce:8f27:cafc:a58a:3ca1
+2025-05-08T14:56:34.436Z ERROR [Security] Possible XSS attack detected in query parameter from IP 0d1e:25aa:bdb1:fec3:4f13:64ce:508d:9713
+2025-05-08T14:02:28.735Z ERROR [Security] Possible XSS attack detected in query parameter from IP 75.22.151.142
+2025-05-08T23:46:32.663Z WARN [Server] Server started on port 3000
+2025-05-08T16:07:06.202Z INFO [Security] Path traversal attempt detected from IP 2.195.95.255
+2025-05-09T07:15:10.310Z WARN [Security] Path traversal attempt detected from IP 36.96.66.20
+2025-05-08T23:05:29.778Z WARN [Security] Possible brute-force login attempt detected from IP cd58:e1cd:47ea:0fb6:b168:a0c2:10ec:e338
+2025-05-08T21:42:59.685Z WARN [Request] PUT /ftp?q=<script>alert('XSS')</script> 201 - 207.113.2.116
+2025-05-08T22:47:10.879Z INFO [Server] Server started on port 3000
+2025-05-08T19:30:52.441Z ERROR [Security] Possible XSS attack detected in query parameter from IP 123.86.79.26
+2025-05-08T17:43:47.432Z WARN [Server] Server started on port 3000
+2025-05-08T19:26:18.426Z ERROR [Security] Possible XSS attack detected in query parameter from IP 166.113.214.199
+2025-05-09T10:07:55.003Z WARN [Security] Possible XSS attack detected in query parameter from IP 229.98.90.185
+2025-05-09T08:56:36.724Z INFO [Security] Possible brute-force login attempt detected from IP 59.10.143.254
+2025-05-08T23:14:34.979Z ERROR [Security] Possible XSS attack detected in query parameter from IP 850f:bfbf:7c0a:2bb0:7aba:6bb3:7d38:af5a
+2025-05-09T06:16:30.639Z INFO [Server] Server started on port 3000
+2025-05-08T23:29:19.745Z ERROR [Server] Server started on port 3000
+2025-05-09T04:05:43.791Z INFO [Security] Possible XSS attack detected in query parameter from IP 108.195.228.130
+2025-05-09T09:13:54.571Z ERROR [Server] Server started on port 3000
+2025-05-09T00:30:52.736Z WARN [Security] Possible brute-force login attempt detected from IP 7d7e:baed:7edd:bd2e:abe6:cb22:afcf:b8d7
+2025-05-09T07:33:25.929Z INFO [Request] DELETE /admin?q=<script>alert('XSS')</script> 401 - 225.151.86.17
+2025-05-09T08:20:10.085Z WARN [Request] POST /ftp 404 - 74.87.177.235
+2025-05-09T12:44:23.495Z WARN [Security] Possible brute-force login attempt detected from IP 94.1.77.37
+2025-05-09T03:18:03.694Z INFO [Request] GET /api/v1/orders?q=<script>alert('XSS')</script> 201 - e7fc:052d:c449:cbda:a79b:43bd:00c6:5f8c
+2025-05-09T08:54:47.548Z INFO [Security] Possible XSS attack detected in query parameter from IP 8.35.86.118
+2025-05-09T00:33:22.289Z INFO [Server] Server started on port 3000
+2025-05-08T16:14:39.297Z WARN [Request] PUT /products?q=<img src=x onerror=alert('XSS')> 500 - 74c2:832f:bdf8:c3ea:5dcb:009c:55ee:b29a
+2025-05-08T22:11:29.501Z INFO [Security] Path traversal attempt detected from IP 4ebd:cdc1:89b3:aca1:7a0b:6ef3:2b8e:b7a0
+2025-05-08T20:36:04.194Z INFO [Security] Path traversal attempt detected from IP 147.111.224.1
+2025-05-09T12:37:04.208Z INFO [Security] Path traversal attempt detected from IP 6f9c:99f0:fb5e:d1f8:20e1:f7fd:ecf3:b9c8
+2025-05-09T02:46:48.757Z WARN [Security] Possible brute-force login attempt detected from IP 07c4:db1a:c05a:d5ea:9416:bf8a:fcba:2cfe
+2025-05-08T17:30:35.299Z WARN [Server] Server started on port 3000
+2025-05-08T21:04:44.632Z ERROR [Security] Path traversal attempt detected from IP 73.203.110.31
+2025-05-09T10:01:52.958Z INFO [Security] Path traversal attempt detected from IP af4a:bfb5:fcbb:ea7e:51e1:f601:aa33:4ab4
+2025-05-08T22:04:33.701Z INFO [Security] Possible XSS attack detected in query parameter from IP b17d:7d9e:5eff:a4aa:5d1e:af3a:fb1c:c2aa
+2025-05-08T23:59:36.650Z WARN [Security] Possible brute-force login attempt detected from IP 157.210.249.137
+2025-05-08T20:23:14.047Z WARN [Security] Path traversal attempt detected from IP ea6d:edf3:49fd:bfdc:a4fd:7e44:d7af:bd7e
+2025-05-08T23:19:11.949Z INFO [Request] GET /products?q=<img src=x onerror=alert('XSS')> 404 - 115.70.184.203
+2025-05-09T09:18:09.060Z ERROR [Security] Path traversal attempt detected from IP 59.109.69.116
+2025-05-09T00:15:14.072Z INFO [Request] PUT /login?q=ultra 200 - 27.50.41.46
+2025-05-09T00:48:03.082Z ERROR [Server] Server started on port 3000
+2025-05-08T20:47:35.918Z WARN [Security] Path traversal attempt detected from IP 112.41.155.178
+2025-05-08T17:46:46.022Z WARN [Server] Server started on port 3000
+2025-05-08T19:11:23.064Z WARN [Server] Server started on port 3000
+2025-05-09T12:06:02.802Z INFO [Security] Possible brute-force login attempt detected from IP 132.0.236.242
+2025-05-08T19:01:15.539Z INFO [Security] Possible XSS attack detected in query parameter from IP 226.84.207.149
+2025-05-08T23:41:40.213Z ERROR [Security] Possible brute-force login attempt detected from IP cf05:d685:c3bf:f7ed:bd62:5a99:ddf5:955b
+2025-05-09T01:01:25.012Z ERROR [Security] Possible XSS attack detected in query parameter from IP 6636:ab2a:57e4:32b3:da62:ef6f:eb12:bf0a
+2025-05-09T12:43:04.560Z INFO [Request] GET /api/v1/users?q=<img src=x onerror=alert('XSS')> 403 - 33.176.150.193
+2025-05-08T21:29:55.639Z WARN [Security] Possible XSS attack detected in query parameter from IP 13f1:d5a2:dfa8:ebff:7d02:0a23:eea4:9e47
+2025-05-08T19:21:29.317Z ERROR [Security] Possible XSS attack detected in query parameter from IP 134.112.252.214
+2025-05-08T22:24:05.049Z ERROR [Security] Path traversal attempt detected from IP 30.36.240.108
+2025-05-09T07:07:48.473Z ERROR [Security] Possible brute-force login attempt detected from IP 47.210.204.114
+2025-05-09T10:23:13.089Z WARN [Request] DELETE /ftp?q=<script>alert('XSS')</script> 200 - 155.121.115.179
+2025-05-09T11:27:49.935Z INFO [Server] Server started on port 3000
+2025-05-09T05:39:25.664Z INFO [Security] Possible brute-force login attempt detected from IP 9c00:8ffa:fa51:8459:af4c:1ef1:4b22:4cbe
+2025-05-09T08:56:46.011Z ERROR [Security] Possible brute-force login attempt detected from IP 29cc:b8cb:4521:7a60:feee:de3a:87e0:f1ea
+2025-05-09T04:21:05.873Z INFO [Security] Possible brute-force login attempt detected from IP 171.155.23.152
+2025-05-08T22:49:25.476Z ERROR [Request] DELETE /products?q=<script>alert('XSS')</script> 401 - 178.223.69.144
+2025-05-09T01:20:38.731Z INFO [Security] Possible brute-force login attempt detected from IP ce7b:caef:ad94:cfa6:03c4:e87e:cdce:4fa4
+2025-05-09T02:06:14.002Z WARN [Security] Possible brute-force login attempt detected from IP ecd3:817c:3fdb:b70c:9761:eac0:fb27:4db6
+2025-05-08T23:20:51.559Z INFO [Security] Possible brute-force login attempt detected from IP ef2c:7cee:1fce:ba7e:bbc2:ec6d:b9e0:f216
+2025-05-09T05:52:19.343Z INFO [Security] Possible brute-force login attempt detected from IP db7a:eb5c:ccdc:f70d:b543:ef96:8bde:cecb
+2025-05-08T13:29:09.705Z ERROR [Security] Possible XSS attack detected in query parameter from IP 209.79.20.171
+2025-05-08T15:51:11.096Z ERROR [Server] Server started on port 3000
+2025-05-08T16:47:30.668Z INFO [Security] Possible XSS attack detected in query parameter from IP 200.192.223.90
+2025-05-09T02:00:00.560Z ERROR [Security] Path traversal attempt detected from IP 8a13:ad8f:54c9:2efa:99be:0201:e4e1:e041
+2025-05-09T02:46:29.839Z ERROR [Request] DELETE /api/v1/orders 403 - bdab:328f:e0b1:974e:a3b4:8877:ed4c:ceec
+2025-05-09T11:51:17.296Z INFO [Security] Possible brute-force login attempt detected from IP 103.72.35.181
+2025-05-09T12:33:43.524Z INFO [Request] PUT /admin?q=<script>alert('XSS')</script> 201 - 5400:fb9a:fbc9:34fa:c96f:9dd5:1bba:ef1b
+2025-05-09T01:08:26.325Z ERROR [Server] Server started on port 3000
+2025-05-09T06:53:13.878Z INFO [Security] Possible brute-force login attempt detected from IP 38.106.152.55
+2025-05-08T13:35:13.211Z WARN [Security] Possible XSS attack detected in query parameter from IP 141.156.216.10
+2025-05-09T04:38:12.767Z ERROR [Security] Possible XSS attack detected in query parameter from IP 34.24.26.98
+2025-05-08T23:09:48.487Z INFO [Security] Possible XSS attack detected in query parameter from IP ebd7:cf0f:fd32:9bca:7c41:c5e4:c177:ae50
+2025-05-08T16:47:33.344Z ERROR [Security] Possible brute-force login attempt detected from IP 6d8b:bc52:f890:b400:fd7b:3fbb:f8de:8311
+2025-05-08T15:40:59.949Z ERROR [Request] PUT /support/logs?q=<script>alert('XSS')</script> 200 - bd8f:e257:2e4b:0c79:2f48:ac33:ecdd:bf21
+2025-05-09T01:21:23.155Z ERROR [Request] DELETE /support/logs 400 - 6.226.222.179
+2025-05-08T15:33:46.719Z ERROR [Request] DELETE /home?q=speculum 400 - 183.43.63.180
+2025-05-08T16:36:35.767Z WARN [Security] Path traversal attempt detected from IP 141.53.32.93
+2025-05-09T09:17:12.774Z ERROR [Security] Possible XSS attack detected in query parameter from IP 248.184.213.236
+2025-05-09T01:37:01.185Z ERROR [Security] Possible brute-force login attempt detected from IP fd7d:ea56:4ab9:9ccf:477d:72e9:06fd:ee38
+2025-05-08T17:03:44.585Z ERROR [Security] Path traversal attempt detected from IP 197.20.252.7
+2025-05-08T16:19:29.439Z WARN [Security] Possible XSS attack detected in query parameter from IP 193.110.143.176
+2025-05-08T19:42:37.800Z INFO [Security] Possible brute-force login attempt detected from IP 186.232.28.21
+2025-05-08T22:45:22.547Z ERROR [Request] DELETE /ftp?q=<img src=x onerror=alert('XSS')> 400 - 12.54.212.115
+2025-05-08T22:21:05.861Z ERROR [Security] Possible XSS attack detected in query parameter from IP 30.87.43.171
+2025-05-09T00:02:55.144Z WARN [Security] Possible brute-force login attempt detected from IP 36.207.92.226
+2025-05-08T17:36:04.656Z INFO [Security] Path traversal attempt detected from IP 55.98.20.11
+2025-05-09T08:09:31.197Z ERROR [Security] Path traversal attempt detected from IP 8c02:bbdf:8abc:406e:fc04:5b89:5be4:383b
+2025-05-09T01:44:15.159Z INFO [Security] Possible brute-force login attempt detected from IP fef2:feca:9bc8:4c6f:bb71:d4a7:fdea:3080
+2025-05-08T18:54:57.754Z ERROR [Server] Server started on port 3000
+2025-05-09T08:43:54.272Z INFO [Request] POST /api/v1/orders?q=<img src=x onerror=alert('XSS')> 404 - 214.42.194.37
+2025-05-09T09:25:56.983Z INFO [Security] Possible XSS attack detected in query parameter from IP 3.79.163.184
+2025-05-08T19:46:07.965Z ERROR [Security] Possible XSS attack detected in query parameter from IP 1db1:e7a7:8709:acc3:899a:e45a:cdec:7bcf
+2025-05-09T10:24:08.267Z WARN [Request] PUT /home?q=custodia 200 - 20ed:ef98:8edc:14d5:efcc:336f:af7c:f44f
+2025-05-09T05:24:18.962Z INFO [Request] POST /support/logs?q=<script>alert('XSS')</script> 200 - bfe9:d5bc:1ab8:46e3:4bdd:67ad:7ba1:9226
+2025-05-08T20:58:11.909Z INFO [Server] Server started on port 3000
+2025-05-08T17:23:14.459Z ERROR [Request] PUT /search 201 - 3.230.42.243
+2025-05-09T04:11:10.090Z INFO [Server] Server started on port 3000
+2025-05-08T17:34:40.250Z ERROR [Security] Possible XSS attack detected in query parameter from IP 58.177.222.249
+2025-05-08T17:18:45.783Z ERROR [Security] Possible XSS attack detected in query parameter from IP 228.11.234.78
+2025-05-09T07:22:10.206Z INFO [Security] Possible XSS attack detected in query parameter from IP f3ac:4dd4:a795:fbf2:cd64:bf7e:7da0:fb0b
+2025-05-08T18:37:07.051Z ERROR [Request] GET /support/logs?q=<img src=x onerror=alert('XSS')> 403 - 67.3.96.187
+2025-05-09T02:39:19.735Z ERROR [Request] DELETE /admin 401 - 51ee:1c29:4681:1dfe:223c:295c:70af:e255
+2025-05-09T10:53:38.284Z WARN [Server] Server started on port 3000
+2025-05-08T15:16:27.663Z ERROR [Request] DELETE /ftp 401 - fff1:fa1e:f96b:cf2c:acbc:2b3c:aad1:dce4
+2025-05-08T16:12:46.981Z WARN [Security] Path traversal attempt detected from IP abc1:3d36:f005:6cbf:fbdf:4ee9:ab7c:caa5
+2025-05-09T10:15:49.483Z ERROR [Server] Server started on port 3000
+2025-05-08T16:35:24.643Z ERROR [Security] Possible XSS attack detected in query parameter from IP 6d0c:1c97:d8f3:6e47:f321:0799:a6ae:9461
+2025-05-08T22:47:06.525Z WARN [Security] Path traversal attempt detected from IP 26.122.186.202
+2025-05-08T17:29:57.380Z WARN [Security] Possible brute-force login attempt detected from IP 45c5:bd1d:3ae3:c8af:debf:6d67:e44a:a285
+2025-05-09T00:35:17.030Z ERROR [Security] Possible XSS attack detected in query parameter from IP 231.74.80.161
+2025-05-08T17:38:05.198Z ERROR [Request] PUT /api/v1/orders?q=<img src=x onerror=alert('XSS')> 500 - 75.76.227.157
+2025-05-08T20:21:46.801Z ERROR [Server] Server started on port 3000
+2025-05-09T11:44:17.801Z ERROR [Security] Possible brute-force login attempt detected from IP 33.202.80.233
+2025-05-08T18:32:28.709Z WARN [Server] Server started on port 3000
+2025-05-08T18:02:50.800Z ERROR [Security] Path traversal attempt detected from IP 0a18:cbe2:5dfa:90bb:55ba:ddba:ceea:457f
+2025-05-08T17:50:29.216Z WARN [Server] Server started on port 3000
+2025-05-09T03:13:12.100Z WARN [Security] Possible brute-force login attempt detected from IP 139.164.158.233
+2025-05-08T19:53:51.536Z ERROR [Server] Server started on port 3000
+2025-05-08T12:59:21.566Z ERROR [Security] Path traversal attempt detected from IP e187:f3a9:4576:ed61:1de4:f99a:b5ef:b6b9
+2025-05-08T21:58:09.813Z ERROR [Security] Possible brute-force login attempt detected from IP 255.25.248.120
+2025-05-08T17:49:55.594Z WARN [Security] Possible brute-force login attempt detected from IP dead:4de0:aa7c:1874:ca1f:fc7a:7b8e:fec1
+2025-05-08T23:54:59.166Z INFO [Request] PUT /products 200 - e166:2baf:cbc0:ea37:dc2b:e06e:66e7:361f
+2025-05-09T12:29:05.082Z ERROR [Security] Path traversal attempt detected from IP 5fef:bbff:3aef:a6ab:aa3c:ff3b:fb3e:45ef
+2025-05-09T00:13:14.144Z INFO [Request] POST /login?q=valens 404 - cade:fe5e:8561:b5d6:c3f8:daeb:d09f:2de5
+2025-05-08T20:08:29.642Z ERROR [Security] Possible brute-force login attempt detected from IP 66.46.193.228
+2025-05-09T06:45:37.349Z ERROR [Request] POST /login?q=commemoro 200 - b4ec:5f9c:cf83:1ece:bdde:abaf:af5b:c619
+2025-05-09T08:27:09.070Z ERROR [Request] POST /home 500 - 83.73.6.207
+2025-05-08T23:01:58.233Z WARN [Security] Possible XSS attack detected in query parameter from IP aeed:3bff:bed7:bcbb:4cca:c152:45ed:cac7
+2025-05-09T11:21:51.210Z ERROR [Security] Path traversal attempt detected from IP 190.211.22.130
+2025-05-08T14:09:09.205Z ERROR [Request] GET /api/v1/orders?q=<img src=x onerror=alert('XSS')> 404 - c380:fd1d:c32b:6a84:1c11:e15d:ec10:789e
+2025-05-08T20:09:43.362Z WARN [Security] Path traversal attempt detected from IP 182.119.55.190
+2025-05-09T03:01:19.792Z INFO [Server] Server started on port 3000
+2025-05-09T08:22:48.516Z ERROR [Security] Path traversal attempt detected from IP 241.255.208.232
+2025-05-08T20:47:29.665Z INFO [Security] Possible brute-force login attempt detected from IP 3761:fb55:ac0f:5a6b:b451:b619:f7ab:411b
+2025-05-08T21:57:18.812Z WARN [Security] Possible brute-force login attempt detected from IP 146.253.3.71
+2025-05-09T09:19:50.004Z WARN [Security] Path traversal attempt detected from IP 52d2:bca1:37ef:92b3:a2dc:8a78:debb:2fef
+2025-05-09T10:48:37.299Z WARN [Request] POST /admin 200 - 91.242.149.165
+2025-05-09T02:26:00.028Z INFO [Security] Possible XSS attack detected in query parameter from IP efb6:df0d:9d61:e4dd:6efa:6fea:cddd:ade3
+2025-05-08T17:28:14.126Z ERROR [Security] Possible brute-force login attempt detected from IP df7d:d597:19cf:31de:e7e6:0aea:0dc0:632a
+2025-05-08T19:30:57.303Z ERROR [Security] Path traversal attempt detected from IP 214.92.150.165
+2025-05-09T01:01:08.408Z WARN [Security] Path traversal attempt detected from IP 30a7:9c3d:e3bf:3534:ad82:fdac:78b5:e5eb
+2025-05-09T05:29:02.241Z WARN [Security] Possible brute-force login attempt detected from IP 1abf:9e4c:4606:fe45:fe0f:a5fd:c087:9ab5
+2025-05-08T15:52:26.153Z WARN [Request] GET /search 404 - de93:c68c:9ad3:0c35:96bf:68cb:2dae:10ae
+2025-05-09T09:54:56.482Z ERROR [Server] Server started on port 3000
+2025-05-09T10:08:42.766Z WARN [Security] Possible XSS attack detected in query parameter from IP 141.121.242.55
+2025-05-08T16:18:30.721Z INFO [Server] Server started on port 3000
+2025-05-08T15:45:06.156Z ERROR [Security] Possible XSS attack detected in query parameter from IP 150.46.5.32
+2025-05-08T23:34:31.454Z INFO [Server] Server started on port 3000
+2025-05-09T03:02:11.363Z ERROR [Server] Server started on port 3000
+2025-05-09T02:02:43.199Z WARN [Security] Possible brute-force login attempt detected from IP 253.55.173.3
+2025-05-08T14:34:56.188Z INFO [Security] Path traversal attempt detected from IP b7ea:bcc3:922c:be04:a7e4:85ea:3f4b:bcdd
+2025-05-09T03:24:06.283Z INFO [Server] Server started on port 3000
+2025-05-09T05:55:39.993Z INFO [Request] PUT /products 500 - 142.164.33.111
+2025-05-09T11:52:22.209Z ERROR [Security] Path traversal attempt detected from IP 94.138.104.158
+2025-05-09T10:37:01.577Z WARN [Server] Server started on port 3000
+2025-05-08T15:31:25.588Z WARN [Server] Server started on port 3000
+2025-05-08T20:52:44.421Z WARN [Request] PUT /admin?q=vos 400 - 82.69.235.179
+2025-05-08T17:43:49.119Z INFO [Server] Server started on port 3000
+2025-05-08T12:51:52.528Z INFO [Security] Possible XSS attack detected in query parameter from IP dcbf:8955:3d67:b0ba:821f:cbbf:66ef:a531
+2025-05-09T11:47:32.982Z WARN [Security] Possible XSS attack detected in query parameter from IP 79.254.150.248
+2025-05-09T03:52:02.782Z INFO [Security] Possible XSS attack detected in query parameter from IP fde3:3cc8:8c4a:b75c:66ad:8a9c:eb7b:ac3a
+2025-05-09T09:27:52.791Z INFO [Security] Path traversal attempt detected from IP 1240:78fc:ea7c:fbd2:c50a:13da:dd60:a6c1
+2025-05-09T03:17:57.856Z ERROR [Security] Path traversal attempt detected from IP 255.75.192.164
+2025-05-09T00:02:36.740Z ERROR [Security] Possible XSS attack detected in query parameter from IP bf9d:8ff8:dfdf:88d6:b8e5:9f04:19e2:6b6d
+2025-05-08T13:01:44.003Z INFO [Security] Possible brute-force login attempt detected from IP cbda:8c0b:ac3c:d5d2:c875:175f:53e0:ecfd
+2025-05-08T20:23:14.194Z WARN [Server] Server started on port 3000
+2025-05-09T06:50:18.558Z ERROR [Security] Possible XSS attack detected in query parameter from IP 244.158.43.16
+2025-05-09T05:50:03.735Z WARN [Request] PUT /home 500 - 56fb:fd10:b6f5:8fab:fee9:cc59:a3dd:4d6d
+2025-05-09T12:07:48.133Z INFO [Security] Possible brute-force login attempt detected from IP 115.61.133.49
+2025-05-09T08:12:31.172Z INFO [Request] PUT /search?q=<script>alert('XSS')</script> 404 - 109.85.77.181
+2025-05-09T06:31:50.310Z INFO [Request] DELETE /login?q=<img src=x onerror=alert('XSS')> 403 - 94ef:4f05:4d2f:18b4:1c95:4b47:44b4:dfa1
