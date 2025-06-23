@@ -1,5 +1,7 @@
 # Test day 2025.
 
+## Moved to https://github.com/ssandviken/Cyber-using-Copilot
+
 File with demo prompts is found under "Cyber and Copilot Presentation" folder.
 
 This repo will not be updated with changes from the offical Juice Shop repo, so instead of using this, check out your own version from https://github.com/juice-shop/juice-shop.
